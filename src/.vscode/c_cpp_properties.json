@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/vbox/Documents/gbplanner2_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/exploration/adaptive_obb_ros/adaptive_obb/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/attitude_regulator/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/misc/eigen_checks/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/exploration/gbplanner_ros/gbplanner/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/exploration/gbplanner_ros/kdtree/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/sim/lidar_simulator/lidar_gazebo_plugins/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/misc/mav_comm/mav_msgs/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/misc/mav_comm/mav_planning_msgs/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/misc/minkindr/minkindr/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/misc/minkindr_ros/minkindr_conversions/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/exploration/pci_general/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/exploration/gbplanner_ros/planner_common/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/exploration/gbplanner_ros/planner_control_interface/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/sim/rotors_simulator/rotors_control/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/sim/rotors_simulator/rotors_gazebo_plugins/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/sim/rotors_simulator/rotors_joy_interface/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/sim/smb_simulator/smb_path_tracker/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/mapping/voxblox/voxblox/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/mapping/voxblox/voxblox_ros/include/**",
+        "/home/vbox/Documents/gbplanner2_ws/src/mapping/voxblox/voxblox_rviz_plugin/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
